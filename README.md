@@ -11,7 +11,7 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 - My socials are listed below
-  - LinkedIn at [Devansh-365](https://www.linkedin.com/in/devansh-tiwari-3342611a6/)
+  - LinkedIn at [Devansh-365](https://www.linkedin.com/in/devansh-tiwari/)
   - Portfolio/Website at [devanshtiwari.me](https://devanshtiwari.me)
   - Mail me at **devanshtiwari365@gmail.com** regarding any work or if you just wanna connect
 
