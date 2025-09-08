@@ -23,7 +23,7 @@ I do it either through writing or building things from scratch.
 
 Some things I've built from scratch:
 
-- [Zod from Scratch]([https://github.com](https://github.com/Devansh-365/zod-from-scratch))
+- [Zod from Scratch](https://github.com/Devansh-365/zod-from-scratch)
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
