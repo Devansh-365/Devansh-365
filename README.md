@@ -10,7 +10,7 @@
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-- My socials are listed below
+- My socials are listed below:
   - LinkedIn at [Devansh-365](https://www.linkedin.com/in/devdevanshtiwari)
   - Portfolio/Website at [devanshtiwari.com](https://devanshtiwari.com)
   - Mail me at **devanshtiwari365@gmail.com** regarding any work or if you just wanna connect
