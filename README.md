@@ -1,3 +1,7 @@
+<div style="overflow:hidden;height:200px;">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2M0MHRzYm81eW5yZHcxbG50bzN1OTE4YTA2czExamtyeTZ4cjZidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9az09tlYyYNfq/giphy.gif" width="100%" style="object-fit:cover;height:200px;" alt="Zoro" />
+</div>
+
 # Hi, I'm Devansh
 
 **Delhi NCR, India** | **I build things people actually use** | **Co-founder, [Metis](https://trymetis.app)**
