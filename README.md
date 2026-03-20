@@ -15,9 +15,9 @@
 
 ## What I'm Building
 
-- **[Metis](https://trymetis.app)** (closed source) . Most Indian traders lose money because they don't have the right analysis tools. Metis fixes that with AI. Hybrid model routing cut API costs 52%. Went from idea to 25-user beta in 20 days.
+- **[Metis](https://trymetis.app)** (closed source) . AI-powered stock analysis for Indian swing traders. The tools retail traders have access to are terrible. Metis gives them an unfair edge.
 
-- **[Hisaab](https://github.com/Devansh-365/hisaab)** (open source) . 91% of F&O traders lose money. The #1 fix is journaling, but nobody does it because it's painful. Hisaab makes it a 2-minute CSV upload. No server, no signup, your data never leaves your browser.
+- **[Hisaab](https://github.com/Devansh-365/hisaab)** (open source) . The #1 fix for losing traders is journaling, but nobody does it because it's painful. Hisaab turns it into a 2-minute CSV upload. No server, no signup, your data stays on your device.
 
 ## Projects
 
@@ -47,4 +47,3 @@
 ---
 
 > "Ship beats perfect." I learned to code out of guilt, stayed because building things for people who actually use them is the most honest work I know.
-
