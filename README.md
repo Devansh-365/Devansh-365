@@ -22,7 +22,7 @@
 
 ## Projects
 
-- **[Indica](https://github.com/Devansh-365/indica)** . Fast technical analysis indicators for stock markets. Written in Rust because Python was too slow for what Metis needed.
+- **[Indica](https://github.com/Devansh-365/indica)** . Trading indicators that finish before the candle does.
 - **[BuzzWav](https://buzzwav.com)** . Reddit already knows what's about to go viral. BuzzWav listens so creators don't have to.
 - **[Ceddit](https://github.com/Devansh-365/ceddit)** . StackOverflow meets Reddit. Full-stack developer Q&A platform.
 - **[ValidateIdeaAI](https://github.com/Devansh-365/validateideaai)** . Paste your startup idea, get an AI teardown of whether it'll work.
