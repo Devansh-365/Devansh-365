@@ -1,4 +1,3 @@
-
 # Hi, I'm Devansh
 
 **Delhi NCR, India** | **I build things people actually use** | **Co-founder, [Metis](https://trymetis.app)**
@@ -8,20 +7,23 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-> I started coding to pay my own college fees. Shipped 50+ products as a freelancer. Quit stable roles twice because I wanted to own the decisions, not just execute them.
-
 ## What I'm Building
 
-- **[Metis](https://trymetis.app)** (closed source) . AI-powered stock analysis for Indian swing traders. The tools retail traders have access to are terrible. Metis gives them an unfair edge.
+- **[Metis](https://trymetis.app)** . AI-powered stock analysis for Indian swing traders. The tools retail traders have access to are terrible. Metis gives them an unfair edge.
 
-- **[Hisaab](https://github.com/Devansh-365/hisaab)** (open source) . The #1 fix for losing traders is journaling, but nobody does it because it's painful. Hisaab turns it into a 2-minute CSV upload. No server, no signup, your data stays on your device.
+- **[Hisaab](https://github.com/Devansh-365/hisaab)** . The #1 fix for losing traders is journaling, but nobody does it because it's painful. Hisaab turns it into a 2-minute CSV upload. No server, no signup, your data stays on your device.
+
+- **[FreeLLM](https://github.com/Devansh-365/freellm)** . An OpenAI-compatible gateway across 6 free LLM providers. Failover, circuit breakers, 25+ models. Point your app at it and stop paying for tokens.
 
 ## Projects
 
+- **[Indica](https://github.com/Devansh-365/indica)** . Fast technical analysis indicators for stock markets. Written in Rust because Python was too slow for what Metis needed.
+- **[BuzzWav](https://buzzwav.com)** . Reddit already knows what's about to go viral. BuzzWav listens so creators don't have to.
 - **[Ceddit](https://github.com/Devansh-365/ceddit)** . StackOverflow meets Reddit. Full-stack developer Q&A platform.
 - **[ValidateIdeaAI](https://github.com/Devansh-365/validateideaai)** . Paste your startup idea, get an AI teardown of whether it'll work.
 - **[BioBeacon](https://github.com/Devansh-365/biobeacon)** . Your own link-in-bio page. Open source, no vendor lock-in.
@@ -35,7 +37,7 @@
 
 - Scaling [Metis](https://trymetis.app) and growing [Hisaab](https://github.com/Devansh-365/hisaab) as an open source project
 - Deep in product management at NextLeap PM Fellowship
-- Building AI developer tools (MCP servers, LLM utilities)
+- Building AI developer tools ([FreeLLM](https://github.com/Devansh-365/freellm), MCP servers, LLM utilities)
 - Writing about what I learn on [LinkedIn](https://www.linkedin.com/in/devdevanshtiwari/)
 
 ## Connect
@@ -44,7 +46,3 @@
 [![Portfolio](https://img.shields.io/badge/-devanshtiwari.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://devanshtiwari.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devansh-365)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devanshtiwari365@gmail.com)
-
----
-
-> "Ship beats perfect." I learned to code out of guilt, stayed because building things for people who actually use them is the most honest work I know.
