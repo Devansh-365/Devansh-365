@@ -14,14 +14,12 @@
 
 ## What I'm Building
 
-- **[Metis](https://trymetis.app)** . AI-powered stock analysis for Indian swing traders. The tools retail traders have access to are terrible. Metis gives them an unfair edge.
-
-- **[Hisaab](https://github.com/Devansh-365/hisaab)** . The #1 fix for losing traders is journaling, but nobody does it because it's painful. Hisaab turns it into a 2-minute CSV upload. No server, no signup, your data stays on your device.
-
-- **[FreeLLM](https://github.com/Devansh-365/freellm)** . An OpenAI-compatible gateway across 6 free LLM providers. Failover, circuit breakers, 25+ models. Point your app at it and stop paying for tokens.
+- **[Metis](https://trymetis.app)** . The stock analysis tools retail traders deserve but don't have yet.
 
 ## Projects
 
+- **[FreeLLM](https://github.com/Devansh-365/freellm)** . Six free LLM providers, one endpoint. Stop paying for tokens.
+- **[Hisaab](https://github.com/Devansh-365/hisaab)** . Trade journaling that takes 2 minutes, not 20.
 - **[Indica](https://github.com/Devansh-365/indica)** . Trading indicators that finish before the candle does.
 - **[BuzzWav](https://buzzwav.com)** . Reddit already knows what's about to go viral. BuzzWav listens so creators don't have to.
 - **[Ceddit](https://github.com/Devansh-365/ceddit)** . StackOverflow meets Reddit. Full-stack developer Q&A platform.
