@@ -31,13 +31,6 @@
 - **[CompetitorFinder](https://github.com/Devansh-365/competitorfinder)** . Scrape JustDial, IndiaMART, and Google Maps to find every competitor in your space.
 - **[Baatcheet](https://github.com/Devansh-365/baatcheet)** . Real-time chat with video calls. Built to learn WebRTC, stayed because it actually works.
 
-## Right Now
-
-- Scaling [Metis](https://trymetis.app) and growing [Hisaab](https://github.com/Devansh-365/hisaab) as an open source project
-- Deep in product management at NextLeap PM Fellowship
-- Building AI developer tools ([FreeLLM](https://github.com/Devansh-365/freellm), MCP servers, LLM utilities)
-- Writing about what I learn on [LinkedIn](https://www.linkedin.com/in/devdevanshtiwari/)
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Devansh_Tiwari-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdevanshtiwari/)
