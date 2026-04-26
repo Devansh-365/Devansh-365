@@ -37,4 +37,5 @@
 [![LinkedIn](https://img.shields.io/badge/-Devansh_Tiwari-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdevanshtiwari/)
 [![Portfolio](https://img.shields.io/badge/-devanshtiwari.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://devanshtiwari.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Devansh-365)
+[![Apify](https://img.shields.io/badge/-Apify-FF9900?style=flat-square&logo=apify&logoColor=white)](https://apify.com/devanshlive)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devanshtiwari365@gmail.com)
