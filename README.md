@@ -18,7 +18,7 @@
 
 ## Projects
 
-- **[FreeLLM](https://github.com/Devansh-365/freellm)** . Six free LLM providers, one endpoint. Stop paying for tokens.
+- **[FreeLLM](https://github.com/Devansh-365/freellm)** . 8 free LLM providers, one endpoint. Stop paying for tokens.
 - **[sheetforge](https://github.com/Devansh-365/sheetforge)** . Google Sheets as a backend that doesn't drop rows on launch day.
 - **[Hisaab](https://github.com/Devansh-365/hisaab)** . Trade journaling that takes 2 minutes, not 20.
 - **[Indica](https://github.com/Devansh-365/indica)** . Trading indicators that finish before the candle does.
